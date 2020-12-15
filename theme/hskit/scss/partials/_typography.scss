@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Open Sans';
+	src: url("[[font:theme|good_dog.woff2]]") format("woff2"), url("[[font:theme|good_dog.woff]]") format("woff"),
+		url("[[font:theme|good_dog.ttf]]") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+$header-font: "";
+$body-font: "Open Sans";
+$chinese-font: "";
